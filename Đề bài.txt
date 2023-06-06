@@ -1,0 +1,11 @@
+Bài 2. Xây dựng chương trình làm việc với phân số
+Thuộc tính:
+		private int TuSo; //Tử số
+	         private int MauSo; //Mẫu số
+}	
+Các phương thức 
+Hàm tạo (khởi tạo tử số = 0, mẫu số = 1)
+Nhập phân số
+In phân số
+Rút gọn phân số
+Tính tổng/hiệu/tích/thương 2 phân số
